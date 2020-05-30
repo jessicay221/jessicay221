@@ -292,12 +292,10 @@
     <div class="row">
         <div class="col-md-12" style="text-align: right;">
             <p>
-                <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
                 Copyright &copy;<script>
                     document.write(new Date().getFullYear());
                 </script> All rights reserved | This template is made with Yang, Fang-Chieh
                 <a href="https://colorlib.com" target="_blank" style="text-align: right">Colorlib</a>
-                <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
             </p>
         </div>
     </div>
