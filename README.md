@@ -55,6 +55,7 @@
 				<div class="hero-wrap">
 					<div class="overlay"></div>
 					<div class="d-flex align-items-center js-fullheight">
+						
 						<div class="author-info text p-3 p-md-5">
 							<div class="desc">
                         <span class="subheading">Hello! I'm</span>
@@ -76,6 +77,7 @@
 								<div class="slider-item js-fullheight"
 									style="background-image: url(images/me2.jpg);">
 								</div>
+
 								<div class="slider-item js-fullheight"
 									style="background-image:url(images/me4.jpg);">
 								</div>
@@ -84,6 +86,7 @@
 					</div>
 				</div>
 			</section>
+
     <hr class="m-0" />
     <!-- Experience-->
     <section class="resume-section" id="experience">
@@ -105,6 +108,7 @@
                         <li>
                             Actively collaborated with cross-functional team (from sales, marketing,
                             monetizing, engineering, data science to design teams) to assess product strategies.
+
                         <li>Created data system of NLP that can significantly improve the performance of
                             machine learning.</li>
                         </li>
@@ -237,14 +241,14 @@
                                     style="background-image: url(images/bank.jpg);">
                                     <div class="overlay"></div>
                                     <div class="text text-center p-4">
-                                        <h3><a href="/Fang-Chieh-Resume/project1.html" target="_blank">UI/UX
+                                        <h3><a href="https://jessicay221.github.io/jessicayang/project3.html" target="_blank">UI/UX
                                                 Research</a>
                                         </h3>
                                     </div>
                                 </div>
                                 <div class="text mt-3 float-right d-block">
                                     <h3 class="heading"><a
-                                            href="https://chiayi-lin.github.io/Stock_Trader/backtest.html"
+                                            href="https://jessicay221.github.io/jessicayang/project3.html"
                                             target="_blank">Cathy United Bank - Mobile Banking APP</a></h3>
                                     <p>Solved the pain points that clients might feel during their journey in using banking application.</p>
                                 </div>
@@ -257,14 +261,14 @@
                                     style="background-image: url(images/kkmeet.jpg);">
                                     <div class="overlay"></div>
                                     <div class="text text-center p-4">
-                                        <h3><a href="https://chiayi-lin.github.io/Stock_Trader/backtest.html"
+                                        <h3><a href="https://jessicay221.github.io/Jessica_Yang/project2.html"
                                                 target="_blank">Product Planning</a>
                                         </h3>
                                     </div>
                                 </div>
                                 <div class="text mt-3 float-right d-block">
                                     <h3 class="heading"><a
-                                            href="https://chiayi-lin.github.io/Stock_Trader/backtest.html"
+                                            href="https://jessicay221.github.io/Jessica_Yang/project2.html"
                                             target="_blank">KKmeet - Social Networking APP</a></h3>
                                     <p>Combined music with AI techniques, developing an application that contributes to networking between people.</p>
                                 </div>
@@ -289,13 +293,17 @@
             </div>
         </div>
     </section>
+
     <div class="row">
         <div class="col-md-12" style="text-align: right;">
+
             <p>
+                <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
                 Copyright &copy;<script>
                     document.write(new Date().getFullYear());
                 </script> All rights reserved | This template is made with Yang, Fang-Chieh
                 <a href="https://colorlib.com" target="_blank" style="text-align: right">Colorlib</a>
+                <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
             </p>
         </div>
     </div>
@@ -303,6 +311,7 @@
     </footer>
     </div><!-- END COLORLIB-MAIN -->
     </div><!-- END COLORLIB-PAGE -->
+
     <script src="js/jquery.min.js"></script>
     <script src="js/jquery-migrate-3.0.1.min.js"></script>
     <script src="js/popper.min.js"></script>
